@@ -1,6 +1,30 @@
-## Version 9.1.0
+## Version 9.2.0
 
-- [Upstream fixes from Lyrion Music Server 9.0.x](#version-904)
+- [Upstream fixes from Logitech Media Server 9.1.x](http://raw.githubusercontent.com/v9.1.1)
+
+- New Features:
+
+- Server Changes:
+
+- Platform Support:
+
+- Bug Fixes:
+
+- Other:
+
+## Version 9.1.1
+
+- New Features:
+
+- Server Changes:
+
+- Platform Support:
+
+- Bug Fixes:
+
+- Other:
+
+## Version 9.1.0 - 2026-02-19 (d19d25040)
 
 - New Features:
 
@@ -84,8 +108,6 @@
 
 ## Version 9.0.4
 
-- New Features:
-
 - Server Changes:
 
 	- Updated Czech translation - thanks @mipa87!
@@ -100,8 +122,6 @@
 
 	- Classic/Transporter/Boom [would not navigate down the artist](https://forums.lyrion.org/forum/user-forums/logitech-media-server/1794277) of the currently playing track.
 	- [#1280](https://github.com/LMS-Community/slimserver/issues/1280) \- persists current song on last track (thanks @MrC!).
-
-- Other:
 
 ## Version 9.0.3 - 2025-10-03 (9977737c1)
 
